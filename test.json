@@ -1,10 +1,45 @@
 {
-    "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test.yaml",
-    "urls": [{
-        "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test.yaml",
-        "name": "Foo"
-    },{
-        "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test2.yaml",
-        "name": "Foo2"
-    }]
+  "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test.yaml",
+      "name": "Foo"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test2.yaml",
+      "name": "Foo2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test3.yaml",
+      "name": "Foo3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test4.yaml",
+      "name": "Foo4"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test5.yaml",
+      "name": "Foo5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test6.yaml",
+      "name": "Foo6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test7.yaml",
+      "name": "Foo7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test8.yaml",
+      "name": "Foo8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test9.yaml",
+      "name": "Foo9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/onuryildiz1/swaggerxss/refs/heads/main/test10.yaml",
+      "name": "Foo10"
+    }
+  ]
 }
